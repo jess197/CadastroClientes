@@ -1,0 +1,92 @@
+.jumbotron{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 1800px;
+}
+
+.hr{
+    width: 1300px;
+
+}
+
+
+.card {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 3px 3px 5px 2px #ccc;
+
+
+}
+
+.cadastro{
+    width: 1300px;
+}
+
+.login{
+    width: 500px;
+    margin-top: 200px;
+}
+
+
+.form-control{
+    text-align: center; 
+}
+
+.form-group{ 
+    text-align: left;
+}
+
+.imgNav{
+    width: 40px; 
+    height: 40px;
+}
+
+.btnAdd{
+    margin-top: 10px;
+    margin-left: 1000px;
+
+} 
+
+.crud{ 
+    margin-top: 20px;
+}
+
+.title-login{
+    margin-top: 50px;
+}
+
+body{
+    background-color: #E6E6E6;
+}
+
+/* Style the input container */
+.input-container {
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  /* Style the form icons */
+  .icon {
+    padding: 10px;
+    background: #E6E6E6;
+    color: white;
+    min-width: 25px;
+    max-width: 38px;
+    text-align: center;
+  }
+  
+  /* Style the input fields */
+  .input-field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+  }
+  
+  .input-field:focus {
+    border: 2px solid #E6E6E6;
+  }
+  
